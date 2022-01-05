@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jplacenciaf
+- 👋 Hi, I’m Jose
 - 👀 I’m interested in learn new technologies
 - 🌱 I’m currently learning node and react
 - 💞️ I’m looking to collaborate on different projects
